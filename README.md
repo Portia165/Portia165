@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Portia.
-- 👀 I’m interested in tech, food and crocheting.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on mobile applications.
-- 📫 How to reach me, email me at mthethwaportia65@gmail.com
-- 😄 Pronouns: she because i can never be her.
 - ⚡ Fun fact: I am transitioning into tech from culinary arts.
 
 <!---
